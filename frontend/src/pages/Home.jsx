@@ -13,12 +13,6 @@ import { AnimatedContainer } from "@/components/ui/animated-container";
 import { toast } from "sonner";
 
 const Home = () => {
-  useEffect(() => {
-    // Welcome toast on component mount
-    toast.success("Welcome back!", {
-      description: "Manage your API keys securely."
-    });
-  }, []);
 
   return (
     <GradientBackdrop 

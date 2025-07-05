@@ -230,7 +230,7 @@ const KeyTable = () => {
           <TableCaption>A list of your keys</TableCaption>
           <TableHeader>
             <TableRow>
-              <TableHead className="w-[20%] p-2 text-secondary">Key Name</TableHead>
+              <TableHead className="w-[20%] p-2 text-primary">Key Name</TableHead>
               <TableHead className="w-[40%] p-2 text-primary">KEY</TableHead>
               <TableHead className="w-[20%] p-2 text-primary">Web Link</TableHead>
               <TableHead className="w-[20%] p-2 text-primary">Actions</TableHead>
