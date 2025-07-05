@@ -101,4 +101,4 @@ A full-stack web application for securely storing and managing API keys with use
 
 ## License
 
-[MIT License](LICENSE) 
+This project is for educational and personal use. Modify and improve as you like!
