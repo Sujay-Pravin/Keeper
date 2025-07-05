@@ -111,7 +111,7 @@ const SignUp = () => {
           <AnimatedContainer animation="slideInRight" delay={0.1} className="flex items-center">
             <motion.img 
               src={signup} 
-              className="h-full max-h-[600px] w-auto object-contain rounded-xl"
+              className="h-full max-h-[675px] w-auto object-contain rounded-xl"
               alt="Sign up"
               whileHover={{ scale: 1.03 }}
               transition={{ type: "spring", stiffness: 300, damping: 10 }}
